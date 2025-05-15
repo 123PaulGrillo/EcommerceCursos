@@ -40,7 +40,7 @@ La tienda online permite a los usuarios navegar, explorar y comprar cursos digit
 
 ## Contacto
 
-Para preguntas o sugerencias, puedes contactarme a través de [tu correo o tus redes].
+Para preguntas o sugerencias, puedes contactarme a través de paul vicencio grado o paulfto@outlook.es.
 
 ---
 
