@@ -2,6 +2,8 @@
 
 Este repositorio contiene el código fuente de una tienda online desarrollada con **HTML**, **CSS** y **JavaScript**, enfocada en la venta de cursos en línea.
 
+![Uploading ScreenforProyect.png…]()
+
 ## Descripción
 
 La tienda online permite a los usuarios navegar, explorar y comprar cursos digitales. Está diseñada con una interfaz moderna, intuitiva y responsiva, para ofrecer una experiencia de usuario agradable tanto en dispositivos de escritorio como móviles.
